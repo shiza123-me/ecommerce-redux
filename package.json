@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@iconify/react": "^6.0.2",
     "@reduxjs/toolkit": "^2.11.2",
+    "@splidejs/react-splide": "^0.7.12",
     "axios": "^1.13.4",
     "next": "16.1.6",
     "react": "19.2.3",
